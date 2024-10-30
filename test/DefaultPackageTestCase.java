@@ -26,3 +26,6 @@ class DefaultPackageTestCase {
 	}
 
 }
+
+
+/** test **/
